@@ -1,0 +1,3 @@
+- Learning how to use GitHub.
+- Practised creating a repositoruy and editing README
+- Now adding files to the repository
